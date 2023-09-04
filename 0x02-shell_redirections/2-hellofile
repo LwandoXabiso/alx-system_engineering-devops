@@ -1,2 +1,2 @@
 @!/bin/nash
-cat /etc/passwod
+cat /etc/passwd
